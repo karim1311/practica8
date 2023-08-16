@@ -1,1 +1,1 @@
-Este es el archivo dev dependiente de main
+main-dev
