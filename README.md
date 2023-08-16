@@ -1,1 +1,1 @@
-Este es el archivo test dependiente de dev dependiente de main
+main-dev-test
